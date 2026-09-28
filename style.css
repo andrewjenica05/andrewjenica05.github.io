@@ -32,6 +32,7 @@ nav a:hover {
     max-width: 800px;
     margin: 20px auto;
     line-height: 2;
+    font-size: 18px;
 }
 
 .home-banner {
