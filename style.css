@@ -28,6 +28,12 @@ nav a:hover {
     text-decoration: underline;
 }
 
+p {
+    text-align: center;
+    max-width: 900px;
+    margin: 20px auto;
+}
+
 .home-banner {
         display: block;
         width: 600px;
