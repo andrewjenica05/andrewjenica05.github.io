@@ -28,14 +28,20 @@ nav a:hover {
     text-decoration: underline;
 }
 
-.dialogue {
+.header {
     max-width: 800px;
     margin: 20px auto;
 }
 
+.dialogue {
+    max-width: 800px;
+    margin: 20px auto;
+    line-height: 2;
+}
+
 .home-banner {
         display: block;
-        width: 600px;
-        height: 500px;
+        width: 400px;
+        height: 300px;
         margin: 25px auto 0;
 }
