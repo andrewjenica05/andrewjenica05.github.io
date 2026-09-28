@@ -28,11 +28,6 @@ nav a:hover {
     text-decoration: underline;
 }
 
-.header {
-    max-width: 800px;
-    margin: 20px auto;
-}
-
 .dialogue {
     max-width: 800px;
     margin: 20px auto;
