@@ -27,3 +27,9 @@ nav a {
 nav a:hover {
     text-decoration: underline;
 }
+
+.home-banner {
+        display: block;
+        width: 500px
+        margin: 25px auto 0
+}
