@@ -40,3 +40,10 @@ nav a:hover {
         height: 300px;
         margin: 25px auto 0;
 }
+
+.clipart {
+        display: block;
+        width: 600px;
+        height: 500px;
+        margin: 25px auto 0;
+}
