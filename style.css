@@ -5,6 +5,32 @@ body {
     margin: 10px;
 }
 
+body.light-mode {
+    background-color: #f5f4f0;
+    color: #000000;
+}
+
+body.light-mode header {
+    background-color: #f5f4f0;
+    color: #000000;
+}
+
+body.light-mode nav {
+    background-color: #f5f4f0;
+}
+
+body.light-mode nav a {
+    color: #000000;
+}
+
+.mode-button {
+    padding: 8px 15px;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+}
+
 header {
     background-color: #0c0d10;
     color: #ffffff;
@@ -45,4 +71,11 @@ nav a:hover {
     display: block;
     width: 600px;
     margin: 25px auto 0;
+}
+
+.redirect {
+    display: block;
+    width: 400px;
+    margin: 10px auto 0;
+    cursor: pointer;
 }
