@@ -1,3 +1,3 @@
-document.getElementById("ImageRedirect").addEventListener("click", function() {
-    window.location.href = "favorites.html#ImageRedirect";
+document.getElementById("ImageRedirectHomeTWD").addEventListener("click", function() {
+    window.location.href = "favorites.html#ImageRedirectFavoritesTWD";
 });
