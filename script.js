@@ -1,7 +1,7 @@
 // Page Redirects on Home Page
-const homeImage = document.getElementById("ImageRedirectHomeTWD");
+const twdredirect = document.getElementById("ImageRedirectHomeTWD");
 
-if (homeImage) {
+if (twdredirect) {
     homeImage.addEventListener("click", function() {
         window.location.href = "favorites.html#ImageRedirectFavoritesTWD";
     });
